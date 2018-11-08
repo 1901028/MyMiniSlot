@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyMiniSlot</string>
+    <string name="reset">手持ちRESET</string>
+    <string name="slot_title">ミニスロットゲーム</string>
+    <string name="mycoin">手持ちコイン:</string>
+    <string name="kakekin">掛け金:</string>
+    <string name="up_button">掛け金UP</string>
+    <string name="down_button">掛け金DOWN</string>
+    <string name="start_button">スタート</string>
+    <string name="result_txt">ヒャッハー！</string>
+    <string name="back_button">戻る</string>
+    <string name="myCoin">1000って表示されるはず</string>
+    <string name="kakeCoin">10って表示されるはず</string>
+    <string name="bai">倍率:</string>
+    <string name="bai_int">倍率の値が表示されるはず</string>
+    <string name="atari_money">当たり金が表示されるはず</string>
+    <string name="slot1_int">スロット1の値</string>
+</resources>
