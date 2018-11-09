@@ -15,4 +15,5 @@
     <string name="bai_int">倍率の値が表示されるはず</string>
     <string name="atari_money">当たり金が表示されるはず</string>
     <string name="slot1_int">スロット1の値</string>
+    <string name="start_button_en">Start</string>
 </resources>
